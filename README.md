@@ -1,19 +1,17 @@
 <h1 align="center">Hi, I'm Tom!</h1>
-<h3 align="center">A 1st year PhD student in the <a href="https://www.sheffield.ac.uk/dcs/research/groups/machine-learning">Machine Learning Group</a> @ The University of Sheffield. </h3>
+<h3 align="center">A 1st year PhD student in the <a href="https://www.sheffield.ac.uk/dcs/research/groups/machine-learning">Machine Learning Group</a> @ The University of Sheffield, focusing on probabilistic deep learning and physically inspired modeling. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomcdonald&label=Profile%20views&color=0e75b6&style=flat" alt="tomcdonald" /> </p>
 
-- 🔭 I’m currently working on **probabilistic deep learning & physically inspired models**
+- 🔭 Currently working on **deep Gaussian processes & latent force models**
 
-- 🌱 I’m currently learning about **Julia, neural ODEs & deep kernel learning**
+- 🌱 Currently learning about **Julia, neural ODEs & deep kernel learning**
 
 - 📝 I (occasionally!) write articles on <a href="http://tomcdonald.github.io/blog/about">my blog</a>
 
-- 💬 Ask me about **deep Gaussian processes, latent force models & Python**
+- 📫 You can reach me at **tmmcdonald1@sheffield.ac.uk**
 
-- 📫 How to reach me **tmmcdonald1@sheffield.ac.uk**
-
-- ⚡ Fun fact **I love baseball; lets go Blue Jays!**
+- ⚡ Fun fact - **I love baseball; lets go Blue Jays!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
