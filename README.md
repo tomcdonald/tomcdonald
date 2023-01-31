@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Tom and I'm a 2nd year PhD student in the <a href="https://www.cs.manchester.ac.uk/research/expertise/machine-learning-and-robotics/">Machine Learning Group</a> @ The University of Manchester, focusing on probabilistic deep learning and physically inspired modeling. </h3>
+<h3 align="center">Hi, I'm Tom and I'm a 3rd year PhD student in the <a href="https://www.cs.manchester.ac.uk/research/expertise/machine-learning-and-robotics/">Machine Learning Group</a> @ The University of Manchester, focusing on probabilistic deep learning and physically inspired modeling. </h3>
 
 <div align='center'> 
 I am currently working on developing probabilistic models based upon deep Gaussian processes and latent force models, if you'd like to chat about that or anything else, feel free to drop me an email at <a href="mailto:thomas.mcdonald-2@postgrad.manchester.ac.uk">thomas.mcdonald-2@postgrad.manchester.ac.uk</a>.
